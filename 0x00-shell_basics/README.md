@@ -1,1 +1,1 @@
-Display current directory contents
+creates a directory in a directory
